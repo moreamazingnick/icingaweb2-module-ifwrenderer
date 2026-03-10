@@ -4,6 +4,7 @@ Instead of `[INFO]` which was introduced in the icinga-powershell-framework 1.14
 
 ## Installation
 Use the install command in the release information or install as usual.
+
 This only affects a command that has Invoke-Icinga in the name, like Invoke-IcingaCheckABC or CustomInvoke-IcingaCheckABC
 
 ## Disabled ifwrenderer
