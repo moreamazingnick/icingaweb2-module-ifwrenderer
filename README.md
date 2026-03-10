@@ -7,6 +7,9 @@ Use the install command in the release information or install as usual.
 
 This only affects a command that has Invoke-Icinga in the name, like Invoke-IcingaCheckABC or CustomInvoke-IcingaCheckABC
 
+Don't forget to refresh the page (Control Shift R / Cmd Shift R on Mac) otherwise the custom css is not loaded and the is just an empty spot.
+
+
 ## Disabled ifwrenderer
 ![without](./doc/img/module-disabled.png)
 
