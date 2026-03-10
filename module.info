@@ -1,0 +1,6 @@
+Module: ifwrenderer
+Version: 0.1.1
+Requires:
+  Modules: icingadb (>= 1.3.0)
+Description: Icinga Powershell Framework Check-Output Renderer
+ This module adds Powershell Check Rendering improvements to icingadb
